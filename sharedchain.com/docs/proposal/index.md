@@ -1,0 +1,3 @@
+# SharedChain Proposal
+
+Coming soon...
