@@ -14,10 +14,18 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'About SharedChain',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Benefits', link: '/benefits/' },
+          { text: 'Sponsors', link: '/sponsors/' },
+          { text: 'Technology', link: '/technology/' },
+        ]
+      },
+      {
+        text: 'Architecture',
+        items: [
+          { text: 'Server', link: '/architecture/server/' },
+          { text: 'Clients', link: '/architecture/clients/'}
         ]
       }
     ],
