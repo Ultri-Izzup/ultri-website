@@ -19,6 +19,7 @@ export default defineConfig({
           { text: 'Benefits', link: '/benefits/' },
           { text: 'Sponsors', link: '/sponsors/' },
           { text: 'Technology', link: '/technology/' },
+          { text: 'Cooperative Proof', link: '/cooperative-proof/' },
         ]
       },
       {
