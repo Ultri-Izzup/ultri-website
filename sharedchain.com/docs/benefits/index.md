@@ -8,3 +8,4 @@
   * WASM client and server
   * Rust programming language
   * Arm64 support
+* Built-in integration with the [Ultri business platform](https://www.ultri.com)
