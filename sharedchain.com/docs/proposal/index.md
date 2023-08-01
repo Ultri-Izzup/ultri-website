@@ -2,16 +2,12 @@
 
 SharedChain will enable the next stage in global cooperative economies. Using smart contracts with Bitcoin integration, internal and external business agreements can be defined, funded, tracked and paid. All automatically, and all with complete transparency, while still protecting the privacy of the individual.
 
-It will create a global decentralized network of cooperatively mananged servers that enable organizations to define, fund and staff their projects. Using end-to-end encryption, tasks and activities are defined and stored on an immutable internal blockchain.
+We’ll create a global decentralized network of cooperatively managed servers that enable organizations to define, fund and staff their projects. Using end-to-end encryption, smart contracts can be embedded in SharedChain and used to automate complex workflows across organizations and across borders with payment made in Bitcoin.
 
-Smart Contracts can be embedded to automate the the flow of work. These contracts can integrate with the Bitcoin blockchain to fund work and perform payments.
+Anyone can run their own SharedChain server for their organization's internal and external use. To maximize the value, they can join aggregate chains, which may be open or closed and may include a fee. Anyone can run an aggregated chain using the same open source server software.
 
-Our development team is split between devolopers in Europe and the US. We will be complying with all European privacy laws including GDPR.
+SharedChain has been designed to minimize its carbon footprint. The first step is in using an efficient cooperative proof. We implement WASM servers that use half the resources of Docker. The servers can also be deployed on Arm64 architecture to maximize energy savings.
 
-Unlike many blockchain solutions, we don’t require more electricity than a small country to operate. We've made conscious decisions to minimize the carbon footprint of the project:
-
-* Efficient WASM servers use half the resources of other container options.
-* Deployable to energy efficient Arm64 servers.
-* Secured with an electricity sipping Cooperative Proof.
+SharedChain is aimed at global development teams, our own development team is split between developers in Europe and the US. We will meet all European privacy laws, including GDPR.
 
 [Additional Info](/proposal/info/)

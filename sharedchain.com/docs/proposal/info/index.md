@@ -1,4 +1,4 @@
-**Your name:** Brian Winkers
+**Your name:** Brian Winkers 
 
 **Email address:** Brian@ultri.com
 
@@ -14,9 +14,11 @@
 
 I've been involved in startups and Internet development for over 35 years. I was the primary architect for a similar blockchain project for Bitlov back in 2014. Back then, the market wasn't ready for a product that didn't use an expensive cryptographic proof. Ethereum's proof-of-stake has changed that.
 
-All developers are members of Ultri, a startup tech co-op dedicated to creating open source products. This provides the project with a team to help monetize the product and ensure its continued growth without a constant stream of grants. The co-op backing also allows us to stay on track in the event a core developer leaves the team mid-project.
+Denis Azamfire is the other primary developer. He is from Romania and will eventually manage a European sibling to the Ultri co-op being formed.
 
-**Requested Amount:** 40,000 euro
+We are both members of Ultri, a startup tech co-op dedicated to creating open source products. We have a members in multiple European countries and are growing every day. The co-op provides the project with a team to help monetize the product and ensure its continued growth without a constant stream of grants. Co-op backing also allows us to stay on track in the event a core developer leaves the team mid-project.
+
+**Requested Amount:** 50,000 euro
 
 **Explain what the requested budget will be used for?
 Does the project have other funding sources, both past and present?
@@ -34,7 +36,7 @@ In the smart contract space, [Ethereum](https://ethereum.org/en/) and [Bitcoin S
 
 **What are significant technical challenges you expect to solve during the project, if any?)**
 
-The biggest burden will be deploying and scaling the WASM server side, WASM is still relatively new territory. We’ll be using Wasmer, so much of the hard work is already done for use. Meeting the burden of security required to enable some of the Bitcoin interactions will be costly, but there is a clear path.
+The biggest burden will be deploying and scaling the WASM server side, WASM is still relatively new territory. We’ll be using Wasmer, so much of the hard work is already done for us. Meeting the burden of security required to enable some of the Bitcoin interactions will be costly, but there is a clear path.
 
 **Describe the ecosystem of the project, and how you will engage with relevant actors and promote the outcomes?**
 
