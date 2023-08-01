@@ -40,7 +40,7 @@ The biggest burden will be deploying and scaling the WASM server side, WASM is s
 
 **Describe the ecosystem of the project, and how you will engage with relevant actors and promote the outcomes?**
 
-SharedChain will be a standalone service that can be used by itself to manage business processes on the internal blockchain. The authentication and front end interface components will be shared with the open source [Ultri business management platform](https://github.com/Ultri-Izzup/ultri-platform). The Ultri platform is also used by the open source [OpenSociocracy](https://www.opensociocracy.org/) project that works with the sociocracy community experts to create free and open source tools. The grant will help all of these projects by extension.
+SharedChain will be a standalone service that can be used by itself to manage business processes on the internal blockchain, any existing API server can integrate the services. The authentication and front end interface components will be shared with the open source [Ultri business management platform](https://github.com/Ultri-Izzup/ultri-platform). The Ultri platform is also used by the open source [OpenSociocracy](https://www.opensociocracy.org/) project that works with the sociocracy community experts to create free and open source tools. The grant will help all of these projects by extension.
 
 The Ultri platform will integrate SharedChain to support business needs that don't fit well on a blockchain. Developement of the Ultri platform would be done independent of this grant.
 
