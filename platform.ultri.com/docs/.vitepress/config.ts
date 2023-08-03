@@ -26,6 +26,8 @@ export default defineConfig({
       { text: "Own It", link: "https://coop.ultri.com" },
       { text: "Developers", link: "/developer/" },
       { text: "Management", link: "/management/" },
+      { text: "User Manual", link: "/user-manual/" },
+      
 
       //  { text: 'Projects', link: '/tech-coop-projects/' },
       //  {
