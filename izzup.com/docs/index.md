@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Built Together
-    details: Users and developers together, can create a better sharing platform. Without the drive for corporate profits, we bring caring to sharing.
+    details: Users and developers together, can create a better sharing platform. We bring caring to sharing.
   - title: Community Rules
     details: The community sets the rules, does the policing and handles infractions via an internal court system.
   - title: No-surprise API Access
