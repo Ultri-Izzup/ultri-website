@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Ultri Platform"
+  name: "Ultri Open Platform"
   text: "Open Source"
   tagline: Focus on the features, not the framework
   actions:
