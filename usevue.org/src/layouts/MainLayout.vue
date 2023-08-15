@@ -47,7 +47,7 @@
       <q-toolbar >
         <q-toolbar-title>
 
-          <div class="text-center justify-center">An <a href="https://www.ulri.com" class="navbar-text-link">Ultri</a> project</div>
+          <div class="text-center justify-center">An <a href="https://www.ultri.com" class="navbar-text-link">Ultri</a> project</div>
         </q-toolbar-title>
       </q-toolbar>
     </q-footer>
