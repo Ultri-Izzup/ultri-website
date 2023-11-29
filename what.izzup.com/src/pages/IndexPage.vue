@@ -12,7 +12,7 @@
               : ' text-h4 text-weight-bold q-py-lg q-pl-sm'
           "
         >
-          Sample the Fediverse, no account needed. Loading:
+          Sample the Fediverse, no account needed.
         </div>
         <q-tabs
           v-model="tab"
@@ -130,32 +130,11 @@ const tab = ref("popular");
 
 fediverse.loadPopular();
 
-// const showLoading = () => {
-//   $q.loading.show({
-//     message: "Doing something. Please wait...",
-//     boxClass : "bg-grey-2 text-grey-9",
-//     spinnerColor: "primary",
-//   });
-// };
-
 watch(tab, (newVal, oldVal) => {
   if (newVal == "new") {
-    console.log("LOAD NEW POSTS");
     if (!fediverse.newPosts || fediverse.newPosts.length < 1) {
       fediverse.loadNew();
     }
   }
 });
-
-// watch(
-//   fediverse.loading,
-//   (newVal, oldVal) => {
-//     console.log(newVal);
-//     if (newVal.length > 0) {
-//     } else {
-//       $q.loading.hide();
-//     }
-//   },
-//   { immediate: true }
-// );
 </script>

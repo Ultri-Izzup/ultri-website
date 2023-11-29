@@ -79,7 +79,6 @@ export const useFediverseStore = defineStore("fediverse", {
         fetch("https://" + site + "/api/v1/trends/statuses")
           .then((response) => response.json())
           .then((data) => {
-            console.log("FEDISITE POPULAR DATA: ", site, " DATA: \n ", data);
             if (data) {
               data.forEach((post) => {
                 if (!this.popularUrls.has(post.url)) {
@@ -104,7 +103,6 @@ export const useFediverseStore = defineStore("fediverse", {
         )
           .then((response) => response.json())
           .then((data) => {
-            console.log("FEDISITE NEW DATA: ", site, " DATA: \n ", data);
             if (data && data.length > 0) {
               data.forEach((post) => {
                 if (!this.newUrls.has(post.url)) {
