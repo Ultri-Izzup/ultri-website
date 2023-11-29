@@ -9,7 +9,7 @@
           {{ data.display_name }}
         </div>
         <div>
-          <a :href="data.url">@{{ data.username }}@{{ getDomain(data.uri) }}</a>
+          <a :href="data.url">@{{ data.username }}@{{ getDomain(data.url) }}</a>
         </div>
       </div>
     </div>
