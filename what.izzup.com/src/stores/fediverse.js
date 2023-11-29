@@ -2,7 +2,35 @@ import { defineStore } from "pinia";
 
 import { useStorage } from "@vueuse/core";
 
-const newSites = ["ioc.exchange"];
+const newSites = [
+  "izzup.com",
+  "ioc.exchange",
+  "mastodon.social",
+  "mastodon.online",
+  "mas.to",
+  "mastodon.gamedev.place",
+  "ieji.de",
+  "cr8r.gg",
+  "mstdn.business",
+  "hachyderm.io",
+  "defcon.social",
+  "graphics.social",
+  "airwaves.social",
+  "furry.engineer",
+  "earthstream.social",
+  "technews.social",
+  "veganism.social",
+  "hostux.social",
+  "epicure.social",
+  "mastodon.vanlife.is",
+  "peoplemaking.games",
+  "union.place",
+  "urbanists.social",
+  "musician.social",
+  "toot.garden",
+  "mastodon.au",
+  "cosocial.ca"
+];
 
 const popularSites = [
   "izzup.com",
