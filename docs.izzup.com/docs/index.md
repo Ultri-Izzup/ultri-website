@@ -23,6 +23,6 @@ features:
   - title: Subject to Change
     details: The Terms of Service apply to the Fediverse services, additional services may have different terms.
   - title: Sign up for Free
-    details: Stop by <a href"https://izzup.com">Izzup.com</a> and signup for your free <b><i>username</i>@izzup.com</b>, the easiest way to get on the Fediverse.
+    details: Stop by <a href="https://izzup.com">Izzup.com</a> and signup for your free <b><i>username</i>@izzup.com</b>, the easiest way to get on the Fediverse.
 ---
 
