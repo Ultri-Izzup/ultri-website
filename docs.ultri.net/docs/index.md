@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Izzup Documents"
+  name: "Ultri Documents"
   # text: ""
-  tagline: Policies, terms and docuementation for Izzup.com
+  tagline: Policies, terms and docuementation for Ultri.
   actions:
     - theme: brand
       text: Privacy Policy
@@ -18,11 +18,11 @@ hero:
       link: /support/
 
 features:
-  - title: Covers all of Izzup
-    details: The policies and terms of service apply to all websites and services running under the izzup.com, and and subdomains.
+  - title: Covers all Ultri sites
+    details: The policies and terms of service apply to all websites and services running on over 15 domains.
   - title: Subject to Change
-    details: The Terms of Service apply to the Fediverse services, additional services may have different terms.
+    details: The Terms of Service apply to all services and may change at any time. The latest versions will always be available here.
   - title: Sign up for Free
-    details: Stop by <a href="https://izzup.com">Izzup.com</a> and signup for your free <b><i>username</i>@izzup.com</b>, the easiest way to get on the Fediverse.
+    details: The first site is up, stop by <a href="https://izzup.com">Izzup.com</a> and signup for your free <b><i>username</i>@izzup.com</b>, the easiest way to get on the Fediverse.
 ---
 
