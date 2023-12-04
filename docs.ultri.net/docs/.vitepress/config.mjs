@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Izzup Documents",
-  description: "Policies, terms and docuementation for Izzup.com.",
+  title: "Ultri Documentation",
+  description: "Policies, terms and documentation for Ultri.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
